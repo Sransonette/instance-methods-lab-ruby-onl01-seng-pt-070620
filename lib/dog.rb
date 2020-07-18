@@ -1,5 +1,5 @@
 class Dog 
-  def berk
+  def bark
     puts "Woof!"
   end
   def sit 
